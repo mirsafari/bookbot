@@ -1,2 +1,2 @@
 # bookbot
-boot.dev bookbot tutorial
+https://www.boot.dev/ first assignment
